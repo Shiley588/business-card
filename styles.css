@@ -1,0 +1,33 @@
+ body{
+  margin:20px;
+  font-family: times new roman;
+ }
+
+
+.avatar{
+    
+    width: 150px;
+ }
+  
+.card{
+     width:400px;
+     margin: 0px auto;
+     padding:20px;
+     display: flex;
+     justify-content: space-around;	
+     text-align:center;
+     border:5px solid #c9184a;
+     background:#590d22;
+     color:#fff0f3;
+     border-radius:10px;
+     text-shadow: 3px 3px 6px pink;
+  
+}
+  h3:hover{
+       background-color: black;
+}
+ 
+
+
+
+
